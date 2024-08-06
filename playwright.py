@@ -3,8 +3,8 @@ import datetime
 import sys
 
 #username dan password siak ng untuk login
-username = 'wahyu.ridho'
-password = 'Angga2004'
+username = ''
+password = ''
 
 
 #data matkul yang ingin kalian ambil
