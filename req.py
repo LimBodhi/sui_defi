@@ -19,8 +19,8 @@ homepage = "https://academic.ui.ac.id/main/Welcome/"
 url = "https://academic.ui.ac.id/main/CoursePlan/CoursePlanSave"
 
 login_data = {
-    'u': "wahyu.ridho",
-    'p': "2424angga4242"
+    'u': "",
+    'p': ""
 }
 
 SEMESTER = "Term 1"
