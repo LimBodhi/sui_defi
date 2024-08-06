@@ -9,8 +9,8 @@ import datetime
 
 
 
-Username = "wahyu.ridho"
-Password = "2424angga4242"
+Username = ""
+Password = ""
 requests.packages.urllib3.util.ssl_.DEFAULT_CIPHERS = 'DEFAULT@SECLEVEL=1'
 jadwal = "https://academic.ui.ac.id/main/Schedule/Index"
 login_data = {
