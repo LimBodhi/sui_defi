@@ -11,8 +11,8 @@ const ISI_IRS_URL = "https://academic.ui.ac.id/main/CoursePlan/CoursePlanEdit";
 const SAVE_IRS = "https://academic.ui.ac.id/main/CoursePlan/CoursePlanSave";
 const RINGKASAN_URL = "https://academic.ui.ac.id/main/CoursePlan/CoursePlanSummary";
 
-const USERNAME = "wahyu.ridho";
-const PASSWORD = "2424angga4242";
+const USERNAME = "";
+const PASSWORD = "";
 const TERM = "Term 1";
 
 var SAVED_TEXT: []u8 = undefined;
