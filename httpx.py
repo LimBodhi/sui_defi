@@ -14,8 +14,8 @@ ISI_IRS_URL = "https://academic.ui.ac.id/main/CoursePlan/CoursePlanEdit"
 SAVE_IRS = "https://academic.ui.ac.id/main/CoursePlan/CoursePlanSave"
 RINGKASAN_URL = "https://academic.ui.ac.id/main/CoursePlan/CoursePlanSummary"
 
-USERNAME = "wahyu.ridho"
-PASSWORD = "2424angga4242"
+USERNAME = ""
+PASSWORD = ""
 TERM = "Term 1"
 
 SAVEDTEXT = ""
