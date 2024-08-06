@@ -31,8 +31,8 @@ class TLSAdapter(requests.adapters.HTTPAdapter):
         )
 
 def main():
-    USERNAME = "wahyu.ridho"
-    PASSWORD = "2424angga4242"
+    USERNAME = ""
+    PASSWORD = ""
     TERM = "Term 1"
     SUCCESS = False
 
