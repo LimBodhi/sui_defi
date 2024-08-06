@@ -5,7 +5,7 @@ import json
 import datetime
 from selenium.webdriver.chrome.options import Options
 
-USERNAME = "wahyu.ridho"
+USERNAME = ""
 PASSWORD = ""
 DISPLAY_NAME = "WAHYU RIDHO"
 
