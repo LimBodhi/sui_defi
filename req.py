@@ -23,7 +23,7 @@ login_data = {
     'p': "2424angga4242"
 }
 
-SEMESTER = "Term 3"
+SEMESTER = "Term 1"
 
 headers = {"Content-Type": "application/x-www-form-urlencoded"}
 
@@ -39,7 +39,6 @@ data = {"tokens": 0,
 
 while True:
 	session = requests.Session()
-	a = '7bf99474b1f1acfbc4cedcf5201c4f8f2567d0fcddd04b7a2f10a7bb2ceffe95'
 	try:
 		print("masuk")
 		response = session.post(login_url, data=login_data, verify=False)
@@ -54,7 +53,6 @@ while True:
 	if "Login Failed" in response.text:
 		continue
 	try:
-		print("masuk 2")
 		next_page_response = session.get("https://academic.ui.ac.id/main/Authentication/ChangeRole", timeout=2, verify=False)
 	except:
 		continue

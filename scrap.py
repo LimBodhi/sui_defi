@@ -20,10 +20,10 @@ login_data = {
 
 login_url = "https://academic.ui.ac.id/main/Authentication/"
 session = requests.Session()
-response = session.post(login_url, data=login_data)
-next_page_response = session.get("https://academic.ui.ac.id/main/Authentication/ChangeRole")
+response = session.post(login_url, data=login_data, verify=False)
+next_page_response = session.get("https://academic.ui.ac.id/main/Authentication/ChangeRole", verify=False)
 next_page_response = session.get(jadwal)
-next_page_response = session.get("https://academic.ui.ac.id/main/Schedule/Index?period=2023-2&search=")
+next_page_response = session.get("https://academic.ui.ac.id/main/Schedule/Index?period=2024-1&search=", verify=False)
 
 soup = BeautifulSoup(next_page_response.text, 'html.parser')
 

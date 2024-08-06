@@ -97,13 +97,15 @@ def main():
         "submit": "Simpan IRS"}
 
         payload = {"tokens": 0,
-        'c[CSGE602012_01.00.12.01-2020]': '724680-3',
-        'c[CSGE602091_01.00.12.01-2020]': '724707-3',
-        'c[CSGE602022_01.00.12.01-2020]': '724720-4',
-        'c[CSGE602040_01.00.12.01-2020]': '724748-4',
-        'c[CSIM602155_01.00.12.01-2020]': '725467-3',
+        'c[CSIM603183_06.00.12.01-2024]': '754559-3', #Anaperancis A
+        'c[CSIM603026_06.00.12.01-2024]': '754562-4', #Apap A
+        'c[CSIM603154_06.00.12.01-2024]': '754995-4', #Jarkomdat B
+        'c[CSIM102113_06.00.12.01-2024]': '755002-4', #Pengstat D
+        'c[CSCE604151_06.00.12.01-2024]': '753931-3', #Sistem Tertanam
+        'c[CSCE604133_06.00.12.01-2024]': '754913-3', #Computer Vision
         "comment": (None),
         "submit": "Simpan IRS"}
+
 
         token_value = soup.find("input", {"name": "tokens"})["value"]
         payload["tokens"] = token_value
@@ -125,6 +127,7 @@ def main():
                 break
         if "IRS berhasil tersimpan!" in res.text:
             print("Berhasil tersimpan!")
+            print(res.text)
             # notify_bot("Berhasil tersimpan!")
             break
         else:

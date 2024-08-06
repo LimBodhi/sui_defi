@@ -1,0 +1,248 @@
+Nama mata kuliah: Analisis dan Perancangan Sistem Informasi
+Kode mata kuliah: c[CSIM603183_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Analitika Media Sosial
+Kode mata kuliah: c[CSIE604284_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Arsitektur & Pemrog. Aplikasi Perusahaan
+Kode mata kuliah: c[CSIM603026_06.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Dasar-Dasar Audit SI
+Kode mata kuliah: c[CSIE604181_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Dasar-Dasar Pemrograman 1
+Kode mata kuliah: c[CSGE601020_06.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: E-Dagang
+Kode mata kuliah: c[CSIE604160_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Jaringan Komunikasi dan Data
+Kode mata kuliah: c[CSIM603154_06.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Kalkulus 1
+Kode mata kuliah: c[CSGE601012_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Kerja Praktik
+Kode mata kuliah: c[CSCE604098_06.00.12.01-2020]
+SKS: 4
+
+Nama mata kuliah: Kesehatan Elektronik
+Kode mata kuliah: c[CSIE604161_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Komputer dan Masyarakat
+Kode mata kuliah: c[CSGE614093_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Komunikasi Bisnis dan Teknis
+Kode mata kuliah: c[CSIM601191_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Manajemen Bisnis
+Kode mata kuliah: c[CSIM601190_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Manajemen Hubungan Pelanggan
+Kode mata kuliah: c[CSIE604163_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Manajemen Proyek Teknologi Informasi
+Kode mata kuliah: c[CSIM602281_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Manajemen Sistem Informasi
+Kode mata kuliah: c[CSIM603182_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Matematika Diskret 1
+Kode mata kuliah: c[CSGE601010_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: MPK Agama
+Kode mata kuliah: c[UIGE600004_06.00.12.01-2024]
+SKS: 2
+
+Nama mata kuliah: Pemasaran Media Digital
+Kode mata kuliah: c[CSCE604180_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Pengantar Sistem Operasi
+Kode mata kuliah: c[CSIM602155_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Pengantar Statistika
+Kode mata kuliah: c[CSIM102113_06.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Pengelolaan Data Besar
+Kode mata kuliah: c[CSIE604273_06.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Proyek Pengembangan Sistem Informasi
+Kode mata kuliah: c[CSIM603229_06.00.12.01-2024]
+SKS: 6
+
+Nama mata kuliah: Sistem Informasi Sumber Daya Manusia
+Kode mata kuliah: c[CSIE604285_06.00.12.01-2020]
+SKS: 3
+
+Nama mata kuliah: Tugas Akhir
+Kode mata kuliah: c[CSGE604099_06.00.12.01-2020]
+SKS: 6
+
+Nama mata kuliah: Aljabar Linier
+Kode mata kuliah: c[CSGE602012_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Basis Data
+Kode mata kuliah: c[CSGE602070_01.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Dasar-Dasar Pemrograman 2
+Kode mata kuliah: c[CSGE601021_01.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Forensik Digital
+Kode mata kuliah: c[CSCE604156_01.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Jaringan Komputer
+Kode mata kuliah: c[CSCM603154_01.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Kecerdasan Artifisial &  Sains Data Dasar
+Kode mata kuliah: c[CSGE603130_01.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Matematika Diskret  2
+Kode mata kuliah: c[CSGE601011_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Metodologi Penelitian & Penulisan Ilmiah
+Kode mata kuliah: c[CSGE603091_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: MPK Agama
+Kode mata kuliah: c[UIGE600004_01.00.12.01-2024]
+SKS: 2
+
+Nama mata kuliah: Pemrograman Berbasis Platform
+Kode mata kuliah: c[CSGE602022_01.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Rekayasa Perangkat Lunak
+Kode mata kuliah: c[CSCM603125_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Sistem Interaksi
+Kode mata kuliah: c[CSGE602024_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Statistika dan Probabilitas
+Kode mata kuliah: c[CSCM602013_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Struktur Data &  Algoritma
+Kode mata kuliah: c[CSGE602040_01.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Technopreneurship
+Kode mata kuliah: c[CSIE604290_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Computer Vision
+Kode mata kuliah: c[CSCE604133_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Dinamika Kelompok
+Kode mata kuliah: c[PSPS609041_01.00.08.01-2020]
+SKS: 3
+
+Nama mata kuliah: Geometri Komputasional
+Kode mata kuliah: c[CSCE604045_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Graf Pengetahuan
+Kode mata kuliah: c[CSCE604131_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Hubungan Interpersonal
+Kode mata kuliah: c[PSPS609002_01.00.08.01-2020]
+SKS: 3
+
+Nama mata kuliah: Identifikasi dan Pengembangan Kreativitas
+Kode mata kuliah: c[PSPS609003_01.00.08.01-2020]
+SKS: 3
+
+Nama mata kuliah: Individu, Kebudayaan, dan Masyarakat
+Kode mata kuliah: c[PSPS609004_01.00.08.01-2020]
+SKS: 3
+
+Nama mata kuliah: Komputasi Awan
+Kode mata kuliah: c[CSCE604172_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: MPK Agama
+Kode mata kuliah: c[UIGE600004_01.00.08.01-2020]
+SKS: 2
+
+Nama mata kuliah: MPK Bahasa Inggris
+Kode mata kuliah: c[UIGE600003_01.00.18.01-2023]
+SKS: 2
+
+Nama mata kuliah: Pemrograman Fungsional
+Kode mata kuliah: c[CSCE604123_01.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Pemrosesan Bahasa Lisan
+Kode mata kuliah: c[CSCE604032_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Pengajaran Berbantuan Komputer
+Kode mata kuliah: c[CSCE604183_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Pengolahan Bahasa Manusia
+Kode mata kuliah: c[CSCE604031_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Penjaminan Mutu Perangkat Lunak
+Kode mata kuliah: c[CSCE604126_01.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Psikologi Komunikasi
+Kode mata kuliah: c[PSPS609013_01.00.08.01-2020]
+SKS: 3
+
+Nama mata kuliah: Psikologi Lintas Budaya
+Kode mata kuliah: c[PSPS609035_01.00.08.01-2020]
+SKS: 3
+
+Nama mata kuliah: Psikologi Perkotaan
+Kode mata kuliah: c[PSPS609053_01.00.08.01-2020]
+SKS: 3
+
+Nama mata kuliah: Simulasi & Pemodelan
+Kode mata kuliah: c[CSCE604111_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Sistem Tertanam
+Kode mata kuliah: c[CSCE604151_01.00.12.01-2024]
+SKS: 3
+
+Nama mata kuliah: Teknik Kompilator
+Kode mata kuliah: c[CSCE604128_01.00.12.01-2024]
+SKS: 4
+
+Nama mata kuliah: Temu-balik Informasi
+Kode mata kuliah: c[CSCE604135_01.00.12.01-2024]
+SKS: 4
+

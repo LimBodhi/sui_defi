@@ -47,16 +47,21 @@ def login():
 
 
 def save_course_plan():
+    count = 0
     for course in courses:
         try:
             driver.execute_script("arguments[0].checked = 'checked';", driver.find_element(
                 By.XPATH, f"//input[@value='{course}']"))
+            count += 1
         except Exception as e:
             print()
             info(f"[!] Wrong course for: {course}")
-
+    if count == 0:
+        info("[!] No course selected.")
+        return False
     driver.execute_script("arguments[0].click();", driver.find_element(
         By.XPATH, "//input[@value='Simpan IRS']"))
+    return True
 
 
 def is_in_login_page():
@@ -123,7 +128,9 @@ def main():
             info("[!] War has not started yet. Retrying...")
             relogin()
             continue
-        save_course_plan()
+        if not save_course_plan():
+            relogin()
+            continue
         while not is_save_course_successful():
             driver.refresh()
             if is_course_plan_editable():

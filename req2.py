@@ -37,7 +37,6 @@ done = True
 
 def perform_http_request(login_data, data, thread_num, headers):
     while done:
-        sleep(1)
         session = requests.Session()
         try:
             response = session.post(login_url, data=login_data, timeout=2)
