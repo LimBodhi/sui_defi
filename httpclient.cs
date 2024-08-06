@@ -14,8 +14,8 @@ class Program
     private const string SAVE_IRS = "https://academic.ui.ac.id/main/CoursePlan/CoursePlanSave";
     private const string RINGKASAN_URL = "https://academic.ui.ac.id/main/CoursePlan/CoursePlanSummary";
 
-    private const string USERNAME = "wahyu.ridho";
-    private const string PASSWORD = "2424angga4242";
+    private const string USERNAME = "";
+    private const string PASSWORD = "";
     private const string TERM = "Term 1";
 
     private static string SAVEDTEXT = "";
