@@ -2,8 +2,8 @@ import asyncio
 from pyppeteer import launch
 import datetime
 
-USERNAME = 'wahyu.ridho'
-PASSWORD = 'Angga2005'
+USERNAME = ''
+PASSWORD = ''
 courses = []
 
 async def main():
