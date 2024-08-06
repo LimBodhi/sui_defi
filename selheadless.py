@@ -32,7 +32,7 @@ logout = "https://academic.ui.ac.id/main/Authentication/Logout"
 siak = "https://academic.ui.ac.id/main/CoursePlan/CoursePlanEdit"
 
 USERNAME = ""
-PASSWORD = "Angga2005"
+PASSWORD = ""
 
 elements = []
 
